@@ -1,4 +1,4 @@
-                                👋 Hi, I’m @NISHMI077Y
+                                    👋 Hi, I’m Nishmi Samindya
 
 - 👀 I’m interested in web development, full-stack development, and UI/UX design.
 - 🌱 I’m currently learning the MERN stack, AWS hosting, and object-oriented programming.
