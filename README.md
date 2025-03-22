@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @NISHMI077Y
+                                👋 Hi, I’m @NISHMI077Y
+
 - 👀 I’m interested in web development, full-stack development, and UI/UX design.
 - 🌱 I’m currently learning the MERN stack, AWS hosting, and object-oriented programming.
 - 💞️ I’m looking to collaborate on open-source projects, e-commerce websites, and innovative web applications.
 - 📫 How to reach me You can connect with me on GitHub or LinkedIn.
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy designing user-friendly interfaces and love exploring different design trends!
 
 <!---
