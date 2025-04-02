@@ -1,7 +1,7 @@
                                                   
 <h2 align="center" >  Hi 👋, I'm Nishmi Samindya </h2>
                        
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nishmi077y&label=Profile%20views&color=0e75b6&style=flat" alt="nishmi077y" /> </p>
 
