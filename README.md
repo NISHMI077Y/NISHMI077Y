@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/nishmi samindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishmi samindya" height="30" width="40" /></a>
-<a href="https://instagram.com/nishmi samindya premathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishmi samindya premathunga" height="30" width="40" /></a>
+
 <a href="https://www.behance.net/nishmi samindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nishmi samindya" height="30" width="40" /></a>
 </p>
 
